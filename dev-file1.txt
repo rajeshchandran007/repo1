@@ -1,1 +1,2 @@
-I am from dev branch
+I am from dev branch.
+2nd line from dev branch
